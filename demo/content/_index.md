@@ -16,7 +16,7 @@ A hugo shortcode for writing quizzes with a markdown-like syntax: https://github
 primary_color: steelblue
 ---
 
-# The sound of dog
+# The sound of a monkey
 
 ---
 shuffle_answers: false
