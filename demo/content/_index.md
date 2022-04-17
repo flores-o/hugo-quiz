@@ -4,12 +4,6 @@ date: 2019-11-19T17:21:20+01:00
 page: true
 ---
 
-# Hugo Quiz
-
-A hugo shortcode for writing quizzes with a markdown-like syntax: https://github.com/bonartm/hugo-quiz.
-
-**Try out the live code editor: https://bonartm.github.io/quizdown-live-editor/**
-
 {{< quizdown >}}
 
 ---
@@ -45,7 +39,7 @@ class Dog(Animal):
 2. Tuesday
 3. Wednesday
 4. Friday
-5. Saturday  
+5. Saturday
 
 
 # Optional Math formula rendering
