@@ -10,46 +10,108 @@ page: true
 primary_color: steelblue
 ---
 
-# The sound of a monkey
+# Orgasm rates
 
 ---
 shuffle_answers: false
 ---
 
-What do dogs sound like?
+When women have sex with men they reach orgasm ____ (with men orgasm rate being 90%).
 
-> ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dog_-_%E0%B4%A8%E0%B4%BE%E0%B4%AF-6.JPG/150px-Dog_-_%E0%B4%A8%E0%B4%BE%E0%B4%AF-6.JPG)
-
-```python
-class Dog(Animal):
-    def __init__(self, name):
-        self.name = name
-```
-
-- [ ] yes
-- [ ] no
-- [ ] `self.sound = "meow"`
-- [x] wuff
-
-# Put the [days](https://en.wikipedia.org/wiki/Day) in order!
-
-> Monday is the *first* day of the week.
-
-1. Monday
-2. Tuesday
-3. Wednesday
-4. Friday
-5. Saturday
+> Data of sexual behaviour research indicates very few women (less than 30%)[[13]](https://en.wikipedia.org/wiki/Orgasm_gap#cite_note-Passmore-13)[[21]](https://en.wikipedia.org/wiki/Orgasm_gap#cite_note-:9-21)[[22]](https://en.wikipedia.org/wiki/Orgasm_gap#cite_note-22)[[23]](https://en.wikipedia.org/wiki/Orgasm_gap#cite_note-23)[[24]](https://en.wikipedia.org/wiki/Orgasm_gap#cite_note-:6-24)[[25]](https://en.wikipedia.org/wiki/Orgasm_gap#cite_note-:72-25)[[26]](https://en.wikipedia.org/wiki/Orgasm_gap#cite_note-:22-26) reach orgasm during mixed-sex sexual activity, whereas men (over 90%)[[24]](https://en.wikipedia.org/wiki/Orgasm_gap#cite_note-:6-24)[[25]](https://en.wikipedia.org/wiki/Orgasm_gap#cite_note-:72-25)[[27]](https://en.wikipedia.org/wiki/Orgasm_gap#cite_note-27)[[28]](https://en.wikipedia.org/wiki/Orgasm_gap#cite_note-:10-28)[[29]](https://en.wikipedia.org/wiki/Orgasm_gap#cite_note-:13-29)[[30]](https://en.wikipedia.org/wiki/Orgasm_gap#cite_note-30) usually do.
 
 
-# Optional Math formula rendering
-
-$$
-x = \frac{2+2}{\sqrt{a^2+b^2}}
-$$
+- [ ] 90%  of the times
+- [ ] 50%  of the times
+- [x] less than 30%  of the times
 
 
-- [ ] yes
-- [ ] no
+# Orgasm rates
+
+When women have sex with other women they reach orgasm _____.
+
+> Lesbians or women who have sex with women report significantly higher rates of orgasm (up to 83%)[[31]](https://en.wikipedia.org/wiki/Orgasm_gap#cite_note-31)[[1]](https://en.wikipedia.org/wiki/Orgasm_gap#cite_note-:5-1)[[32]](https://en.wikipedia.org/wiki/Orgasm_gap#cite_note-:3-32) than those who have sex with men.
+
+- [ ] 60%  of the times
+- [ ] 70%  of the times
+- [x] more than 80% of the times
+
+
+# Masturbation orgasm rates
+
+When women masturbate, they reach orgasm _____.
+
+> * Alfred Kinsey et al 1953 (62% of 5940 women masturbated, 96% of these had orgasm with masturbation)
+> * Shere Hite 1976 (82% of app. 3000 women states they masturbated, 96% hard orgasm with masturbation)
+
+
+- [ ] 70% of the times
+- [ ] 80% of the times
+- [x] more than 90% of the times
+
+# Most common masturbation technique
+
+The most common masturbation technique is
+
+> * Alfred Kinsey et al (less than 1/5 of women masturbate by inserting an object or fingers into the vagina and nearly all of those who do so accompany the action with simultaneous clitoral stimulation)
+> * Shere Hite (1.5% of women masturbate by vaginal insertion alone)
+
+
+- [x] manual stimulation of the clitoris and small lips of the vulva
+- [ ] inserting an object or fingers into the vagina
+
+# The primary sexual organ
+
+The ____ is the primary anatomical source of human female sexual pleasure.
+> ![The clitoris structure](https://cdn.shopify.com/s/files/1/0579/0587/3054/files/the-clitoris-diagram_480x480.png?v=1626280398)
+> ![Relaxed vs aroused](https://cdn.shopify.com/s/files/1/0579/0587/3054/files/aroused-clitoris-diagram_480x480.png?v=1626280478)
+
+- [x] clitoris
+- [ ] vagina
+
+# Penis and clitoris
+
+ What do the penis and the clitoris have in common?
+ > The main difference between the penis and the clitoris: the penis is outside the body mostly, the clitoris is inside the body mostly.
+ ![Penis vs Clitoris](https://cdn.shopify.com/s/files/1/0579/0587/3054/files/clitoris-penis_480x480.png?v=1626280506)
+
+- [x] they are homologous organs, they develop from the same embryonic tissue in both men and women
+- [x] both have glans with sensory nerve endings (penis glans 3000 nerves, clitoris glans 8000 nerves)
+- [x] both organs have bulbs of erectile tissue
+- [x] both organs get errect
+
+
+
+# The clitoris in school
+
+Out of the 113 biology textbooks used in secondary school in Greece from 1870s to present, the clitoris is mentioned in _____.
+ > A 2022 analysis reported that the clitoris is mentioned in only one out of 113 Greek secondary education textbooks used in biology classes from 1870s to present.[158] (https://en.wikipedia.org/wiki/Clitoris#cite_note-165)
+
+- [x] 1 of them
+- [ ] 10 of them
+- [ ] 30 of them
+
+
+# Female genital mutilation
+
+Female genital mutilation (FGM) is defined as all procedures involving partial or total removal of the external female genitalia or other injury to the female genital organs for non-medical reasons.
+<br><br>
+More than ____ FGM procedures are performed every year.
+
+- [x] 2 million
+- [ ] half a million
+
+# How does the clitoris look like
+
+The picture below is ___.
+<br>
+![Sculpture](https://pbs.twimg.com/media/D3yLMTpUcAAxUAO.jpg:large)
+ > The main difference between the penis and the clitoris: the penis is outside the body mostly, the clitoris is inside the body mostly.
+
+- [x] an anatomically correct sculpture of clitoris
+- [ ] a bird
+
+
+
 
 {{< /quizdown >}}
